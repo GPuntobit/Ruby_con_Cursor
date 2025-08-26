@@ -126,6 +126,7 @@ In ogni chat ci concentreremo su una singola lezione. Quando la lezione finisce,
 
 Per ogni lezione creero' un file, come "lezione_01.md", etc.
 
+
 Dentro “lezione_01.md” si inizierà il corso vero e proprio. Anche quest’ultimo file è da creare: lezione_01.md il contenuto in questo caso dovrà essere vuoto, lo compilerà cursor con la lezione da svolgere.
 
 Credits:
