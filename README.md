@@ -128,3 +128,5 @@ Per ogni lezione creero' un file, come "lezione_01.md", etc.
 
 Dentro “lezione_01.md” si inizierà il corso vero e proprio. Anche quest’ultimo file è da creare: lezione_01.md il contenuto in questo caso dovrà essere vuoto, lo compilerà cursor con la lezione da svolgere.
 
+Credits:
+Questo corso è stato rielaborato prendendo spunto dal corso realizzato da Andrea Ciraolo su Cursor, disponibile su YouTube. Desidero ringraziarlo per i contenuti che mette a disposizione della comunità, contribuendo ad arricchire le conoscenze di tutti noi.
